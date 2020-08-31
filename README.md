@@ -28,4 +28,4 @@ because you took the time to come to my profile 🥺
 | 💻 | [epic website](http://ongzz.me) |
 
 ## 📈📉📊
-![](https://github-readme-stats.vercel.app/api?username=Fogeinator&show_icons=true&hide_border=true&count_private=true)
+![the thing everyone puts on profile readme](https://github-readme-stats.vercel.app/api?username=Fogeinator&show_icons=true&count_private=true&theme=dracula)
