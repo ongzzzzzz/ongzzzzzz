@@ -10,10 +10,10 @@ just wanted to tell you you're
 
 because you took the time to come to my profile 🥺
 
-#### that said: 
+#### that said, here's some stuff: 
 - 🔭 Working on: finishing school 🏫
 - 🔧 Current project: a calculator 🧮 and an alarm clock ⏰
-- 🌱 I’m currently learning Full Stack Web Dev and Pythonistic stuff 🐍
+- 🌱 Learning:  Full Stack Web Dev and Pythonistic stuff 🐍
 - 🤔 Thinking about: epic side projects to do 😎 
 - 💬 Ask me about: my day and I'll ask about yours 😉
 - 💖 I love: emojis 👀
