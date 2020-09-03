@@ -22,6 +22,7 @@ because you took the time to come to my profile 🥺
 | 🕸 | find me at: |
 |---|---|
 | 📧 | [ongzhizheng@gmail.com](mailto:ongzhizheng@gmail.com) |
+| 💌 | [spam me!](mailto:hewwo@ongzz.me) |
 | 📷 | [@ong.zhi.zheng](https://instagram.com/ong.zhi.zheng) |
 | 📘 | [Ong Zhi Zheng](https://www.facebook.com/profile.php?id=100009737623508) |
 | 🐤 | [@ongzzzzzz](https://twitter.com/ongzzzzzz) |
