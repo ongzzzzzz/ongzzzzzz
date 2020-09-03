@@ -27,5 +27,5 @@ because you took the time to come to my profile 🥺
 | 🐤 | [@ongzzzzzz](https://twitter.com/ongzzzzzz) |
 | 💻 | [epic website](http://ongzz.me) |
 
-## 📈📉📊
+## 📈📉📊📉📈📉📊📉📈📉📊
 ![the thing everyone puts on profile readme](https://github-readme-stats.vercel.app/api?username=Fogeinator&show_icons=true&count_private=true&theme=dracula)
