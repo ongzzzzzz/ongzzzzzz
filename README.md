@@ -12,7 +12,7 @@ because you took the time to come to my profile 🥺
 
 #### that said, here's some stuff: 
 - 🔭 Working on: finishing school 🏫
-- 🔧 Current project: a calculator 🧮 and an alarm clock ⏰
+- 🔧 Current project: probably a website 🕸 / hardware 💡 / random stuff 🚿  
 - 🌱 Learning:  Full Stack Web Dev and Pythonistic stuff 🐍
 - 🤔 Thinking about: epic side projects to do 😎 
 - 💬 Ask me about: my day and I'll ask about yours 😉
