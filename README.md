@@ -1,16 +1,4 @@
 # hewwo 👋👁‍🗨👄👁‍🗨✨ 
-
-**hey** you, 
-
-###### yes, you 
-
-just wanted to tell you you're 
-
-### ✨ _`awesome`_ ✨
-
-because you took the time to come to my profile 🥺
-
-#### that said, here's some stuff: 
 - 🔭 Working on: finishing school 🏫
 - 🔧 Current project: probably a website 🕸 / hardware 💡 / random stuff 🚿  
 - 🌱 Learning:  Full Stack Web Dev and Pythonistic stuff 🐍
@@ -29,4 +17,4 @@ because you took the time to come to my profile 🥺
 | 💻 | [epic website](http://ongzz.me) |
 
 ## 📈📉📊📉📈📉📊📉📈📉📊
-![the thing everyone puts on profile readme](https://github-readme-stats.vercel.app/api?username=Fogeinator&show_icons=true&count_private=true&theme=dracula)
+![yes](https://github-readme-stats.vercel.app/api?username=Fogeinator&show_icons=true&count_private=true&theme=dracula)
