@@ -1,4 +1,4 @@
-# hewwo 👋👁‍🗨👄👁‍🗨✨ 
+👋👁‍🗨👄👁‍🗨✨ 
 - 🔭 Working on: finishing school 🏫
 - 🔧 Current project: probably a website 🕸 / hardware 💡 / random stuff 🚿  
 - 🌱 Learning:  Full Stack Web Dev and Pythonistic stuff 🐍
