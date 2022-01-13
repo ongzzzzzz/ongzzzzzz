@@ -1,7 +1,7 @@
 ## 👋👁‍🗨👄👁‍🗨✨ 
 > **a 17yo malaysian student seeking to learn something new everyday :P**
 
-## 📧📮✉📨📩📫💌📪📬📭
+## 📧
 | 🕸 | find me at: |
 |---|---|
 | 📧 | [ongzhizheng@gmail.com](mailto:ongzhizheng@gmail.com) |
