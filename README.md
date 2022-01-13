@@ -1,14 +1,14 @@
 ## 👋👁‍🗨👄👁‍🗨✨ 
-a 17yo malaysian student seeking to learn something new everyday
+> **a 17yo malaysian student seeking to learn something new everyday :P**
 
 ## 📧📮✉📨📩📫💌📪📬📭
 | 🕸 | find me at: |
 |---|---|
 | 📧 | [ongzhizheng@gmail.com](mailto:ongzhizheng@gmail.com) |
-| 💌 | [send me spam!](mailto:hewwo@ongzz.me) |
-| 📷 | [@ong.zhi.zheng](https://instagram.com/ong.zhi.zheng) |
-| 📘 | [Ong Zhi Zheng](https://www.facebook.com/profile.php?id=100009737623508) |
-| 🐤 | [@ongzzzzzz](https://twitter.com/ongzzzzzz) |
+| 💌 | [spam me!](mailto:hey@ongzz.ml) |
+| 📷 | [ig](https://instagram.com/ong.zhi.zheng) |
+| 📘 | [fb](https://www.facebook.com/profile.php?id=100009737623508) |
+| 🐤 | [twt](https://twitter.com/ongzzzzzz) |
 | 💻 | [ongzz.ml](https://ongzz.ml) |
 
 ## 📈📉📊📉📈📉📊📉📈📉📊
