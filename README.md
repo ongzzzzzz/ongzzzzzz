@@ -1,10 +1,5 @@
 ## 👋👁‍🗨👄👁‍🗨✨ 
-- 🔭 Working on: finishing school 🏫
-- 🔧 Current project: probably a website 🕸 / hardware 💡 / random stuff 🚿  
-- 🌱 Learning:  Full Stack Web Dev and Pythonistic stuff 🐍
-- 🤔 Thinking about: epic side projects to do 😎 
-- 💬 Ask me about: my day and I'll ask about yours 😉
-- 💖 I love: emojis 👀
+a 17yo malaysian student seeking to learn something new everyday
 
 ## 📧📮✉📨📩📫💌📪📬📭
 | 🕸 | find me at: |
