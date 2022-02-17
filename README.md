@@ -1,6 +1,12 @@
 ## 👋👁‍🗨👄👁‍🗨✨ 
 > **a 17yo malaysian student seeking to learn something new everyday :P**
 
+![status](https://dev.discordprofiles.me/badge/status/486858222762983425)
+![playing](https://dev.discordprofiles.me/badge/playing/486858222762983425)
+![vscode](https://dev.discordprofiles.me/badge/vscode/486858222762983425)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/486858222762983425)](https://dev.discordprofiles.me/openspotify/486858222762983425)
+
+
 ## 📧
 | 🕸 | find me at: |
 |---|---|
