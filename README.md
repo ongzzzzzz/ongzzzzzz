@@ -2,7 +2,7 @@
 > **a 17yo malaysian student exploring tech :P**
 
 ## 📈📉📊📉📈📉📊📉📈📉📊
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Fogeinator&show_icons=true&count_private=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ongzzzzzz&show_icons=true&count_private=true&theme=dracula)
 
 ## 📧
 | 🕸 | find me at: |
