@@ -1,6 +1,5 @@
 a malaysian kid exploring tech :P
 
-## 📧
 | 🕸 | find me at: |
 |---|---|
 | 📧 | [ongzhizheng@gmail.com](mailto:ongzhizheng@gmail.com) |
