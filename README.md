@@ -1,18 +1,13 @@
-## hewwo
-> **an 18yo malaysian student exploring tech :P**
-
-## 📈📉📊📉📈📉📊📉📈📉📊
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ongzzzzzz&show_icons=true&count_private=true&theme=dracula)
+a malaysian kid exploring tech :P
 
 ## 📧
 | 🕸 | find me at: |
 |---|---|
 | 📧 | [ongzhizheng@gmail.com](mailto:ongzhizheng@gmail.com) |
-| 💌 | [spam me!](mailto:hey@ongzz.ml) |
 | 📷 | [ig](https://instagram.com/ong.zhi.zheng) |
 | 📘 | [fb](https://www.facebook.com/profile.php?id=100009737623508) |
 | 🐤 | [twt](https://twitter.com/ongzzzzzz) |
-| 💻 | [ongzz.ml](https://ongzz.ml) |
+| 💻 | [ongzz.vercel.app](https://ongzz.vercel.app) |
 
 ![status](https://dev.discordprofiles.me/badge/status/486858222762983425)
 ![playing](https://dev.discordprofiles.me/badge/playing/486858222762983425)
